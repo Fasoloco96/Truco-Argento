@@ -1,2 +1,2 @@
-# Truco Online Backend
-Servidor Node.js para la lógica del juego y WebSocket.
+# Truco Online Frontend
+React app para jugar al truco con WebRTC.
